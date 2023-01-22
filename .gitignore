@@ -1,1 +1,2 @@
-#create new git ignore
+# Adding config.py file.
+api_keys.py
